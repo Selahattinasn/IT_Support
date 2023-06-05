@@ -11,4 +11,11 @@ ls command list directories under working-directory. For example : The C drive r
 
 ![ls_command](images/ls_command.png)
 
+to get information about and examples of a comand we use ***Get_Help <command>***
+
+***
+'''Get-Help ls '''
+***
+
+
 
