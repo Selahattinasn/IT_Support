@@ -14,16 +14,16 @@ Each file system has a root directory which is the parent for all other director
 Sub directories are separated by backslash("\\") is unlike Linux which uses forward slashes("/"). A path starts at the root directory of a drive, and continues to the end of the path. Let's open up this PC, and navigate to our main directory, 
 the main directory in a Windows system is the drive that the file system is stored on. In this case, our file system is stored on **Local Disk C**.
  If we look at the top here, you can see the path, 
- There are also some files on here that you can't see, 
----
+ 
+***
 ![local_disk](images/local_disk.png)
----
+***
 
-
+There are also some files on here that you can't see: 
 Hidden files : We'll go to the top and click View, then check the Hidden Items check box. Now we can see all the hidden files on our system, 
----
+***
 ![hidden_files](images/hidden_files.png)
----
+***
 ```
 View Tab --> "Hidden Items"-CheckBox
 ```
