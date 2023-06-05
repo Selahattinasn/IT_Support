@@ -19,3 +19,9 @@ clear
 ```Bash
 history
 ```
+
+The exact same history command that's used in Windows is used in Linux. From here, we can use our up and down keys and even search through our history with Control R. To clear your terminal up, what do you think you do? That's right. The clear command.
+
+```Bash
+clear
+```
