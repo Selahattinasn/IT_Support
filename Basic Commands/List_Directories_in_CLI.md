@@ -11,13 +11,19 @@ ls command list directories under working-directory. For example : The C drive r
 
 ![ls_command](images/ls_command.png)
 
-to get information about and examples of a comand we use ***Get_Help <command>***
+to get information about and examples of a comand we use ***Get_Help*** command. The syntax/usage is:
 
-***
 ```PowerShell
 Get-Help ls 
 ```
-***
+This will give us a brief summary of the command's parameters. But if you want to see more detailed help, try Get-Help ls -Full.
 
+```PowerShell
+Get-Help ls -Full
+```
 
+To see all the hidden files in this directory, we can use another useful parameter for the ls command, -Force.
 
+```PowerShell
+ls -Force C:\
+```
