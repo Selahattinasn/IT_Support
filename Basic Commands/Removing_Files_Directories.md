@@ -1,3 +1,17 @@
+To remove files from Linux, just like in Windows, we can use the ***rm*** or ***remove*** command.
+
+---
+```Bash
+rm text1.txt
+```
+![removeFiles](images/removeFiles.png)
+removing a directory. If you thought to yourself that we need to also recursively remove this directory, you'd be right. Excellent deduction skills, so rm -r. Let's remove the misc_folder directory. 
+
+---
+```Bash
+rm -r misc_folder
+```
+![remove_directory](images/remove_directory.png)
 
 In PowerShell the command to remove files and directories is rm or remove. Take caution when using remove because it doesn't use the recycle bin. Once the files or directories are removed they're gone for good.
 
