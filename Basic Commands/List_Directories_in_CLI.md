@@ -14,7 +14,9 @@ ls command list directories under working-directory. For example : The C drive r
 to get information about and examples of a comand we use ***Get_Help <command>***
 
 ***
-'''Get-Help ls '''
+'''PowerShell
+Get-Help ls 
+'''
 ***
 
 
