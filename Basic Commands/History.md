@@ -1,4 +1,4 @@
-``````PowerShell
+```PowerShell
 history
 ```
 
@@ -16,6 +16,6 @@ to clear the screen:
 clear
 ```
 
-``````Bash
+```Bash
 history
 ```
