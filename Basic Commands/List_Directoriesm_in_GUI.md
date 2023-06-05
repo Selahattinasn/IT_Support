@@ -27,9 +27,16 @@ Hidden files : We'll go to the top and click View, then check the Hidden Items c
 ```
 View Tab --> "Hidden Items"-CheckBox
 ```
-View information about a file? Well, to do this, we can actually just right click and choose Properties.
+Now how to view information about a file? Well, to do this, we can actually just right click and choose Properties.
+*** 
+![file_info_click](images/file_info_click.png)
+***
 in the General tab, we can see the file name, the Type of File, and the location path of the file, which is **C:\Users\Cindy\Desktop**. Then we have the size of the file, and the Size on disk, this can be a little confusing. The size of the file is actually the amount of data that it takes up, but Size on Disk is a little different. Next you have timestamps of when the file was Created, last Modified and last Accessed. After that our file attributes we can enable for our file, we have Read-only and Hidden, you might guess that if you check hidden, our file will be hidden and only visible if we enable Show Hidden Items. There are some advanced options too, but we won't touch those for now. 
-a few other tabs here at the top, Security, Details and Previous Versions. The Previous Versions tab lets us restore an earlier version of a file. So if you made a change to a file, and wanted to revert to that change, you could go back to that version. So to sum up listing their directories in the Windows gooey, we can see the list of files and folders by default here. You can even change how you want to view them using icons, or even a list. Then if you wannna get more information about a file, you can look at its properties. Next up, let's see how to view all this information through the Windows CLI.
+a few other tabs here at the top, Security, Details and Previous Versions. The Previous Versions tab lets us restore an earlier version of a file. So if you made a change to a file, and wanted to revert to that change, you could go back to that version. So to sum up listing their directories in the Windows gooey, we can see the list of files and folders by default here. You can even change how you want to view them using icons, or even a list. Then if you wannna get more information about a file, you can look at its properties. 
+***
+![info_popup](images/info_popup.png)
+***
+Next up, let's see how to view all this information through the Windows CLI.
 
 ```
 View Tab --> "Hidden Items"-CheckBox
