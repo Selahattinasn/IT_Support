@@ -11,7 +11,7 @@ In Windows, file systems are assigned to drive letters which look like C or D or
 Each file system has a root directory which is the parent for all other directories in that file system. So the root directory of c would be written **C\:**, and the root directory of **X** would be written **X\:**. 
 
 
-Sub directories are separated by backslash("\") is unlike Linux which uses forward slashes("/"). A path starts at the root directory of a drive, and continues to the end of the path. Let's open up this PC, and navigate to our main directory, 
+Sub directories are separated by backslash("\\") is unlike Linux which uses forward slashes("/"). A path starts at the root directory of a drive, and continues to the end of the path. Let's open up this PC, and navigate to our main directory, 
 the main directory in a Windows system is the drive that the file system is stored on. In this case, our file system is stored on **Local Disk C**.
  If we look at the top here, you can see the path, 
  There are also some files on here that you can't see, 
