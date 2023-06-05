@@ -15,8 +15,9 @@ Sub directories are separated by backslash("\") is unlike Linux which uses forwa
 the main directory in a Windows system is the drive that the file system is stored on. In this case, our file system is stored on **Local Disk C**.
  If we look at the top here, you can see the path, 
  There are also some files on here that you can't see, 
+---
 ![local_disk](images/local_disk.png)
-
+---
 
 
 Hidden files : We'll go to the top and click View, then check the Hidden Items check box. Now we can see all the hidden files on our system, 
