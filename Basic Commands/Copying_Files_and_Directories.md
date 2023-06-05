@@ -13,7 +13,7 @@ cp *.png ~\Desktop
 
 In Powershell, the command used to copy something is CP. We also need to add a file that we want to copy and the path of where we want to copy it to. 
 ![licp](images/licp.png)
----
+
 ![licpdir](images/licpdir.png)
 
 ---
