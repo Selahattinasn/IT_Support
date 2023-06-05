@@ -20,4 +20,4 @@ Since this is in the directory, it contains other files and we do not use the -R
 
 [removing_directory](images/removing_directory.png)
 
-We see a prompt asking us to confirm if we really want to remove the directory and all its contents. We can say Yes or Yes to All, to continue. We can also cancel this command and run it again with the -Recurse parameter. That way, PowerShell knows that we understand the consequences of what we're doing. So let's go ahead and cancel this and try again.
+We see a prompt asking us to confirm if we really want to remove the directory and all its contents. We can say Yes or Yes to All, to continue. We can also cancel this command and run it again with the -Recurse parameter. That way, PowerShell knows that we understand the consequences of what we're doing.
