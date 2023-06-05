@@ -36,8 +36,3 @@ a few other tabs here at the top, Security, Details and Previous Versions. The P
 ***
 ![info_popup](images/info_popup.png)
 ***
-Next up, let's see how to view all this information through the Windows CLI.
-
-```
-View Tab --> "Hidden Items"-CheckBox
-```
