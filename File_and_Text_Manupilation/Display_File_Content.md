@@ -3,4 +3,4 @@ To Change the default program, with that we open the file,
     - Right clicj on the file 
     - Change the "open with" choice, 
 
-![open_with](images/open_with.png)
+![open_with](../Basic_Commands/images/open_with.png)
