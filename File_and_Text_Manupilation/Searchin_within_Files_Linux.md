@@ -4,4 +4,5 @@ In Bash, we can search for words within files that match a certain pattern using
 
 We can also use grep to search through multiple files.
 We can use asterisk wildcard command here, and We can see that it found cow in farm animals and ranch animals.
+
 ![search_in_linux1](images/search_in_linux1.png)
