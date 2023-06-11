@@ -6,6 +6,7 @@ To Change the default program, with that we open the file,
 ![open_with](images/open_with.png)
 
 ***cat*** command lets us display the content of text_files. 
+![cat_com](images/cat_com.png)
 ``` PowerShell
     // cat stands for concatanet the text
     cat importent.txt
