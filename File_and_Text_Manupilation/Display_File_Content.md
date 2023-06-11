@@ -39,3 +39,5 @@ in Linux ***less*** commands makes mor than ***more*** command.
     // tail to see last lines of the page. 
     tail importent.txt
 ```
+
+![head_or_less](images/head_or_less.png)
