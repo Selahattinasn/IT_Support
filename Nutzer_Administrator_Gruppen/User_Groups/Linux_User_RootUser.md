@@ -2,6 +2,9 @@
 
 ``` Bash
     // list the groups on the local machine. 
+
+    sudo su -
+    su -
     visudo
     cat /etc/sudoers
 
