@@ -1,3 +1,32 @@
+# LINUX PASSWORD
+
+To change your password in Linux, -->  run the P-A-S-S-W-D, or password command. 
+
+``` Bash
+    passwd cindy
+```
+![passCha7](images/passCha7.png)
+
+When you set a password, it's securely scrambled then stored in a special privileged file called /etc/shadow. 
+
+``` Bash
+    /etc/shadow
+```
+![passCha8](images/passCha8.png)
+
+This file can only be read by route to keep away prying eyes. Even if you did have access, you wouldn't be able to descramble passwords found in here. 
+
+By managing a computer to force a standard user to change their password:
+ - use the -E or expire flag with password like this.
+
+``` Bash
+    sudo passwd -e cindy 
+```
+![passCha9](images/passCha9.png)
+
+This will immediately expire a user's password and then make them set a new password the next time they login.
+
+
 # PASSWORD
 
 working with passwords. 
