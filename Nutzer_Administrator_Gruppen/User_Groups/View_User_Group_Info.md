@@ -1,4 +1,12 @@
 ## COMPUTER MANAGEMENT
+``` PowerShell
+    Get-LocalUser
+
+    Get-LocalGroup
+
+    Get-LocalGroupMember
+```
+
 ## Computer management tool.
 To view user and group information in Windows -->  use the computer management tool. 
 ![Computer_Manager](images/Computer_Manager.png)

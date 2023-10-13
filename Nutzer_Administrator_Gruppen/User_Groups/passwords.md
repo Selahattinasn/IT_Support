@@ -1,4 +1,10 @@
 # LINUX PASSWORD
+``` Bash
+    passwd cindy
+    /etc/shadow
+    sudo passwd -e cindy
+```
+
 
 To change your password in Linux, -->  run the P-A-S-S-W-D, or password command. 
 
@@ -28,6 +34,11 @@ This will immediately expire a user's password and then make them set a new pass
 
 
 # PASSWORD
+``` Powershell
+    net user cindy "some pass"
+    net user cindy *
+    net user victor /logonpasswordchange:yes
+```
 
 working with passwords. 
 
