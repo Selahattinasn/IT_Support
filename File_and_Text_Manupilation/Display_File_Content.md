@@ -11,8 +11,18 @@ To Change the default program, with that we open the file,
     // cat stands for concatanet the text
     cat importent.txt
 ```
+
+- with ***Enter*** we can go line by line
+- with ***space*** we can go page by page
+-with ***cat <fileName.txt> --Head 10*** we can see the first 10 lines of a file . 
+![cat_head](images/cat_head.png)
+-with ***cat <fileName.txt> --Tail 10*** we can see the last 10 lines of a file . 
+![cat_tail](images/cat_tail.png)
+
+
 in Linux ***less*** commands makes mor than ***more*** command. 
 - We can with page_up and page_down go up and down; 
+
 - with ***"g"*** we can go to the beginning of the file; 
 - with ***"G"*** we can go to the end of the file. 
 - with *** /<word_to_search>*** we can search a word or phrase  in the text. 
